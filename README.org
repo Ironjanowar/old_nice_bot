@@ -1,1 +1,2 @@
-* This repo contains the code for the Telegram bots and Elixir
+* This repo contains the code for the Telegram bots and Elixir guide
+Post [[https://medium.com/@ironjanowar/telegram-bots-and-elixir-705909102496][here]]
